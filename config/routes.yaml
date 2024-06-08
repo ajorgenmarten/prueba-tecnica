@@ -5,3 +5,7 @@ controllers:
 kernel:
     resource: ../src/Kernel.php
     type: annotation
+
+Greet:
+    path: /hello/{name?}
+    controller: App\Controller\GreetController::index
