@@ -1,4 +1,4 @@
-# Test de Conocimientos Generales para Desarrollador Fullstack Junior
+# Test de Conocimientos Generales para Desarrollador Fullstack
 
 
 ## Sección 1: Symfony
@@ -262,19 +262,5 @@ COMMIT;
 CREATE VIEW high_earning_employees AS 
 SELECT * FROM employees WHERE salary > 70000.00;
 ```
-
-
----
-
-
-## Instrucciones para el Candidato:
-
-- Responde cada pregunta de manera clara y concisa.
-- Para las preguntas de código, asegúrate de que el código sea funcional, esté bien comentado y siga las buenas prácticas, patrones de diseño y PSR-12 de PHP.
-- Estructura tu respuesta como si se tratara de un proyecto real.
-- Crea un repositorio en GitHub con visibilidad pública y sube todas tus respuestas al repositorio.
-- Incluye un archivo README.md en el repositorio que explique cómo ejecutar el proyecto y cualquier otra información relevante.
-- Puedes utilizar cualquier recurso en línea para ayudarte a responder las preguntas, pero las respuestas deben ser comprensibles y reflejar tu propio conocimiento y habilidades.
-- Envía el enlace al repositorio de GitHub antes de la fecha límite especificada.
 
 ¡Buena suerte!
